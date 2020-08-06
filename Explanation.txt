@@ -1,0 +1,47 @@
+You are given a number N, how many ways can we write it as a sum of consecutive positive integers?
+
+Input Description:
+N an integer (1<N<1000)
+
+Output Description:
+how many ways can we write it as a sum of consecutive positive integers
+
+Sample Input:
+9
+
+Sample Output:
+3
+
+explanation:
+the consecutive number of sums to get N is,
+2+3+4 , 4+5 , 9
+
+Sample Input:
+5
+
+Sample Output:
+2
+
+Sample Input:
+17
+
+Sample Output:
+2
+
+Sample Input:
+999
+
+Sample Output:
+8
+
+Sample Input:
+877
+
+Sample Output:
+2
+
+Sample Input:
+775
+
+Sample Output:
+6
